@@ -52,7 +52,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2026 Muhammad Safi. All rights reserved.
+          © 2027  All rights reserved | Muhammad Safi
         </p>
       </div>
     </footer>

@@ -88,7 +88,7 @@ export const SkillsInfo = [
     {
       id: 0,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4p7dGNDrV-aEQLcDAXCB9geRUknpXSMi92LjLkREK_Kqe03anQW0jn6Ys&s=10",
-      school: "School Name Here",
+      school: "Islamabad Career School",
       date: "Currently Studying",
       desc: "I am currently studying in 9th class, where I am building a strong foundation in Science, Mathematics and Computer Studies. Alongside my school studies, I am learning web development and practicing it with real projects. I am a hardworking and curious student, and my goal is to complete my education while growing as a professional developer.",
       degree: "9th Class (Ongoing)",
@@ -106,7 +106,7 @@ export const SkillsInfo = [
       image: todoImg,
       tags: ["Django", "Python", "HTML", "CSS", "JavaScript"],
       github: "https://github.com/Muhammadsafiktk/mytodo-django",
-      webapp: "",
+      webapp: "https://safistudent.pythonanywhere.com/",
     },
     {
       id: 1,
